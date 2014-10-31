@@ -1,3 +1,3 @@
 ~~~\\\\\~~~
-   SWEET LOADDD
+   SWEET LOAD
 ~~~\\\\\~~~
