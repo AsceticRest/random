@@ -1,4 +1,7 @@
 v04
--   delete readme.txt
+
++   new master
 +   create README.md
 +   edited css file
+
+-   delete readme.txt
